@@ -1,4 +1,5 @@
 # molino
+A thought excercise on a subject-predicate-object relationship database
 
 #### Theory
 Everything can be described completely via subject, predicate, object relationships.  Nothing can be described without relationship to something else so everything is a subject, predicate &/or object without exception. 
